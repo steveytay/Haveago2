@@ -31,13 +31,13 @@
     <AppXManifest Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-18T19:42:44.876</Modified>
+      <Modified>2017-06-18T20:46:28.234</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Haveago2.exe">
       <PackagePath>entrypoint\Haveago2.exe</PackagePath>
-      <Modified>2017-06-18T19:42:43.738</Modified>
+      <Modified>2017-06-18T20:46:26.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Steve Taylor\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -535,7 +535,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Haveago2.xr.xml">
       <PackagePath>Haveago2.xr.xml</PackagePath>
-      <Modified>2017-06-18T19:40:15.870</Modified>
+      <Modified>2017-06-18T20:46:25.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -544,11 +544,11 @@
     <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-18T19:42:44.476</Modified>
+      <Modified>2017-06-18T20:46:27.548</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Core\Haveago2.exe">
       <PackagePath>Haveago2.exe</PackagePath>
-      <Modified>2017-06-18T19:42:44.869</Modified>
+      <Modified>2017-06-18T20:46:28.220</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
