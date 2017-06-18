@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>e1e4479b-464d-461f-a2b5-5f3d1fc22a72</PackageIdentityName>
     <PackageIdentityPublisher>CN=Steve Taylor</PackageIdentityPublisher>
-    <IntermediateOutputPath>c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
@@ -19,7 +19,7 @@
     <LayoutDir>c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
@@ -410,7 +410,7 @@
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Core\Haveago2.exe">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Core\Haveago2.exe">
       <PackagePath>Haveago2.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

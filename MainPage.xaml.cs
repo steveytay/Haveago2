@@ -31,7 +31,7 @@ namespace Haveago2
         {
             MediaElement mediaElement = new MediaElement();
             var synth = new Windows.Media.SpeechSynthesis.SpeechSynthesizer();
-            Windows.Media.SpeechSynthesis.SpeechSynthesisStream stream = await synth.SynthesizeTextToStreamAsync("Hello, World!");
+            Windows.Media.SpeechSynthesis.SpeechSynthesisStream stream = await synth.SynthesizeTextToStreamAsync("This is not saying hello world anymore!");
             mediaElement.SetSource(stream, stream.ContentType);
             mediaElement.Play();
         }

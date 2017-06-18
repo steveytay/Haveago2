@@ -22015,10 +22015,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\steve taylor\\documents\\visual studio 2017\\Projects\\Haveago2\\Haveago2\\Haveago2.csproj",
+      "projectUniqueName": "C:\\Users\\Steve Taylor\\documents\\visual studio 2017\\Projects\\Haveago2\\Haveago2\\Haveago2.csproj",
       "projectName": "Haveago2",
-      "projectPath": "c:\\users\\steve taylor\\documents\\visual studio 2017\\Projects\\Haveago2\\Haveago2\\Haveago2.csproj",
-      "outputPath": "c:\\users\\steve taylor\\documents\\visual studio 2017\\Projects\\Haveago2\\Haveago2\\obj\\",
+      "projectPath": "C:\\Users\\Steve Taylor\\documents\\visual studio 2017\\Projects\\Haveago2\\Haveago2\\Haveago2.csproj",
+      "outputPath": "C:\\Users\\Steve Taylor\\documents\\visual studio 2017\\Projects\\Haveago2\\Haveago2\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "uap10.0.10586"
