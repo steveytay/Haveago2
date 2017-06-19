@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>9EC026C2564F07FCDB9CC6B09358F6814CB0AC75FD96A0EADE67B56D50A0E2BD</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>e1e4479b-464d-461f-a2b5-5f3d1fc22a72_1.0.0.0_x86__smyvgyqmycy2c</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>e1e4479b-464d-461f-a2b5-5f3d1fc22a72_smyvgyqmycy2c!App</RegisteredUserModeAppID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-18T21:00:02.238</Modified>
+      <Modified>2017-06-19T20:54:52.862</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Haveago2.exe">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Haveago2.exe">
       <PackagePath>entrypoint\Haveago2.exe</PackagePath>
-      <Modified>2017-06-18T21:00:00.897</Modified>
+      <Modified>2017-06-19T20:54:47.326</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Steve Taylor\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -495,60 +495,60 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T22:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-06-18T19:34:52.134</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2017-06-07T16:32:02.065</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-06-07T16:32:02.065</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-06-07T16:32:02.065</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-06-07T16:32:02.065</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-06-07T16:32:02.065</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-06-07T16:32:02.065</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-06-07T16:32:02.065</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Haveago2.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Haveago2.xr.xml">
       <PackagePath>Haveago2.xr.xml</PackagePath>
-      <Modified>2017-06-18T20:46:25.389</Modified>
+      <Modified>2017-06-18T21:25:17.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-06-02T21:27:47.850</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\steve taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-18T21:00:01.711</Modified>
+      <Modified>2017-06-19T20:54:51.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Steve Taylor\documents\visual studio 2017\Projects\Haveago2\Haveago2\bin\x86\Debug\Core\Haveago2.exe">
       <PackagePath>Haveago2.exe</PackagePath>
-      <Modified>2017-06-18T21:00:02.229</Modified>
+      <Modified>2017-06-19T20:54:52.845</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
